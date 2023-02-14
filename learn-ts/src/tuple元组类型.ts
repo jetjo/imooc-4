@@ -1,0 +1,3 @@
+let user: [string, number, boolean] = ["柳如是", 28, true];
+// user[3] = false
+user.push(false); //NOTE: bug...
